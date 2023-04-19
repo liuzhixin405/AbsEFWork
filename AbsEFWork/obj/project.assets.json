@@ -4821,11 +4821,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\exercisebook\\AbsEFWork\\AbsEFWork\\AbsEFWork.csproj",
+      "projectUniqueName": "D:\\GitHub\\AbsEFWork\\AbsEFWork\\AbsEFWork.csproj",
       "projectName": "AbsEFWork",
-      "projectPath": "D:\\GitHub\\exercisebook\\AbsEFWork\\AbsEFWork\\AbsEFWork.csproj",
+      "projectPath": "D:\\GitHub\\AbsEFWork\\AbsEFWork\\AbsEFWork.csproj",
       "packagesPath": "D:\\Program Files\\.nuget\\packages",
-      "outputPath": "D:\\GitHub\\exercisebook\\AbsEFWork\\AbsEFWork\\obj\\",
+      "outputPath": "D:\\GitHub\\AbsEFWork\\AbsEFWork\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4842,8 +4842,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\GitHub\\exercisebook\\AbsEFWork\\BaseEnityFramework\\BaseEnityFramework.csproj": {
-              "projectPath": "D:\\GitHub\\exercisebook\\AbsEFWork\\BaseEnityFramework\\BaseEnityFramework.csproj"
+            "D:\\GitHub\\AbsEFWork\\BaseEnityFramework\\BaseEnityFramework.csproj": {
+              "projectPath": "D:\\GitHub\\AbsEFWork\\BaseEnityFramework\\BaseEnityFramework.csproj"
             }
           }
         }

@@ -10,3 +10,15 @@ D:\GitHub\exercisebook\AbsEFWork\BaseEnityFramework\obj\Debug\net7.0\BaseEnityFr
 D:\GitHub\exercisebook\AbsEFWork\BaseEnityFramework\obj\Debug\net7.0\refint\BaseEnityFramework.dll
 D:\GitHub\exercisebook\AbsEFWork\BaseEnityFramework\obj\Debug\net7.0\BaseEnityFramework.pdb
 D:\GitHub\exercisebook\AbsEFWork\BaseEnityFramework\obj\Debug\net7.0\ref\BaseEnityFramework.dll
+D:\GitHub\AbsEFWork\BaseEnityFramework\bin\Debug\net7.0\BaseEnityFramework.deps.json
+D:\GitHub\AbsEFWork\BaseEnityFramework\bin\Debug\net7.0\BaseEnityFramework.dll
+D:\GitHub\AbsEFWork\BaseEnityFramework\bin\Debug\net7.0\BaseEnityFramework.pdb
+D:\GitHub\AbsEFWork\BaseEnityFramework\obj\Debug\net7.0\BaseEnityFramework.csproj.AssemblyReference.cache
+D:\GitHub\AbsEFWork\BaseEnityFramework\obj\Debug\net7.0\BaseEnityFramework.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\AbsEFWork\BaseEnityFramework\obj\Debug\net7.0\BaseEnityFramework.AssemblyInfoInputs.cache
+D:\GitHub\AbsEFWork\BaseEnityFramework\obj\Debug\net7.0\BaseEnityFramework.AssemblyInfo.cs
+D:\GitHub\AbsEFWork\BaseEnityFramework\obj\Debug\net7.0\BaseEnityFramework.csproj.CoreCompileInputs.cache
+D:\GitHub\AbsEFWork\BaseEnityFramework\obj\Debug\net7.0\BaseEnityFramework.dll
+D:\GitHub\AbsEFWork\BaseEnityFramework\obj\Debug\net7.0\refint\BaseEnityFramework.dll
+D:\GitHub\AbsEFWork\BaseEnityFramework\obj\Debug\net7.0\BaseEnityFramework.pdb
+D:\GitHub\AbsEFWork\BaseEnityFramework\obj\Debug\net7.0\ref\BaseEnityFramework.dll

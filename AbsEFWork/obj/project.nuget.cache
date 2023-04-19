@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o0uLfK5/B3r9+gTTZDmBjqQy38177azLOJJBlg0ywurVAxxQKBteaRAarLIstECAr1R+/n4zCSnaDigFvz54Fg==",
+  "dgSpecHash": "tTda0XbB0jw4LqtO2jojzp/pLOmJ390naTB5fZ6MYXqxAgPZ1JUAat0m3xNFOJaDJ1iVZM073wltkUrehZ5uig==",
   "success": true,
-  "projectFilePath": "D:\\GitHub\\exercisebook\\AbsEFWork\\AbsEFWork\\AbsEFWork.csproj",
+  "projectFilePath": "D:\\GitHub\\AbsEFWork\\AbsEFWork\\AbsEFWork.csproj",
   "expectedPackageFiles": [
     "D:\\Program Files\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "D:\\Program Files\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",

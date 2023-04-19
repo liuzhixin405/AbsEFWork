@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHub\\exercisebook\\AbsEFWork\\BaseEnityFramework\\BaseEnityFramework.csproj": {}
+    "D:\\GitHub\\AbsEFWork\\BaseEnityFramework\\BaseEnityFramework.csproj": {}
   },
   "projects": {
-    "D:\\GitHub\\exercisebook\\AbsEFWork\\BaseEnityFramework\\BaseEnityFramework.csproj": {
+    "D:\\GitHub\\AbsEFWork\\BaseEnityFramework\\BaseEnityFramework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub\\exercisebook\\AbsEFWork\\BaseEnityFramework\\BaseEnityFramework.csproj",
+        "projectUniqueName": "D:\\GitHub\\AbsEFWork\\BaseEnityFramework\\BaseEnityFramework.csproj",
         "projectName": "BaseEnityFramework",
-        "projectPath": "D:\\GitHub\\exercisebook\\AbsEFWork\\BaseEnityFramework\\BaseEnityFramework.csproj",
+        "projectPath": "D:\\GitHub\\AbsEFWork\\BaseEnityFramework\\BaseEnityFramework.csproj",
         "packagesPath": "D:\\Program Files\\.nuget\\packages",
-        "outputPath": "D:\\GitHub\\exercisebook\\AbsEFWork\\BaseEnityFramework\\obj\\",
+        "outputPath": "D:\\GitHub\\AbsEFWork\\BaseEnityFramework\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",

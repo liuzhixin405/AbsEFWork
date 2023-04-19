@@ -36,6 +36,8 @@ namespace BaseEntityFramework
             return _efCoreService.GetList(request);
         }
 
+
+
         [HttpGet("GetAll")]
         public Task<IEnumerable<T>> GetAll()
         {

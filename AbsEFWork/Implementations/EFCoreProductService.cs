@@ -1,4 +1,5 @@
-﻿using BaseEntityFramework.Implementations.Entitys;
+﻿using BaseEnityFramework.DefaultImplement;
+using BaseEntityFramework.Implementations.Entitys;
 using BaseEntityFramework.IService;
 using BaseEntityFramework.Models;
 using Microsoft.EntityFrameworkCore;
@@ -6,19 +7,17 @@ using System.Linq.Expressions;
 
 namespace BaseEntityFramework.Implementations
 {
-    public class EFCoreProductService : IEFCoreService<Product>
+    public class EFCoreProductService : DefaultEfCoreService<ProductDbContext,Product>
     {
         private readonly ProductDbContext _dbContext;
-        public EFCoreProductService(ProductDbContext productDbContext)
+
+        public EFCoreProductService(ProductDbContext context) : base(context)
         {
-            _dbContext = productDbContext;
         }
 
-        public async Task<bool> Add(Product entity)
+        public Task<bool> Add(Product entity)
         {
-            _dbContext.Products.Add(entity);
-            var result = await _dbContext.SaveChangesAsync();
-            return result != 0;
+          return base.Add(entity);
         }
 
         public Task<bool> Delete(Product entity)
@@ -26,9 +25,9 @@ namespace BaseEntityFramework.Implementations
             throw new NotImplementedException();
         }
 
-        public async Task<IEnumerable<Product>> GetAll()
+        public Task<IEnumerable<Product>> GetAll()
         {
-            var result =await _dbContext.Products.ToListAsync();
+            var result = base.GetAll();
             return result;
         }
 
